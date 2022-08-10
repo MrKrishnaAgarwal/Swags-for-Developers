@@ -1,4 +1,5 @@
-# Swags-for-Developers
+# Swags for Developers ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=200) 
+
 
 <div align="center">
 
@@ -12,12 +13,9 @@
 
 <p align="center">
 
-<img src = "https://img.shields.io/badge/license-GNU General %20Public License-yellow"/>
-<img src="https://visitor-badge.deta.dev/badge?page_id=swags" alt="visitor badge"/> 
+<img src = "https://img.shields.io/badge/license-GNU General %20Public License-indigo"/>
 <img src = "https://awesome.re/badge.svg"/> 
 <img src="https://img.shields.io/github/contributors/MrKrishnaAgarwal/Swags-for-developers" />
-<img src="https://img.shields.io/github/issues/MrKrishnaAgarwal/Swags-for-developers.svg"/>
-<img src="https://img.shields.io/github/issues-pr-closed/MrKrishnaAgarwal/Swags-for-developers.svg"/>
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg"/>
 
 
@@ -26,20 +24,22 @@
 
 ## Contributing
 
-If you have suggestions for how the @all-contributors bot could be improved, or want to report a bug, [open an issue](https://github.com/all-contributors/all-contributors-bot/issues)!
+If you have suggestions for how this repo could be improved, or want to report a bug, [open an issue](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/issues)!
+
+Also if you know and want to add new swags stuff, Raise a pull request and I'll add it.
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## Contributors
 
-Thanks goes to these wonderful people 💻
+✨ Thanks goes to these wonderful people ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/commits?author=MrKrishnaAgarwal" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/commits?author=MrKrishnaAgarwal" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -47,3 +47,10 @@ Thanks goes to these wonderful people 💻
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<p align = "center">
+
+<a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/graphs/contributors"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
+![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
+</p>
+
