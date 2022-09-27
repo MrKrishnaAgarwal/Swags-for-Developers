@@ -28,7 +28,7 @@ If you have suggestions for how this repo could be improved, or want to report a
 
 Also if you know and want to add new swags stuff, Raise a pull request and I'll add it.
 
-For more, check out the [Contributing Guide](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/blob/main/CODE_OF_CONDUCT.md).
+For more, check out the [Contributing Guide](/CONTRIBUTING.md).
 
 ## Contributors
 
