@@ -11,3 +11,5 @@
 - [Camunda](https://camunda.com/) : Submit four (4) quality pull requests (PRs) to any Camunda repo including participating* Camunda Community Hub repos and get a t-shirt.
 
 - [Medusa](https://medusajs.com/) : For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle
+
+- [Community Classroom](https://www.commclassroom.org/hashnode) : Community Classroom has started a blogging challenge since past few months. You can get a chance to win exciting prizes such as MacBooks, iPhones, iPads and more every month. You have follow the guidelines for participation. The more blogs you write as per the tracks, the more chances get increased to get the grand prize of that month. This increases your writing skills and also you get to understand new things properly.
