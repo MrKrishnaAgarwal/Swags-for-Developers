@@ -16,4 +16,4 @@
 
 - [Webiny](https://www.webiny.com/swag/) : " To show our appreciation to all our contributors and supporters, we are giving away free swag. " - Sven, Co-founder & CEO. If you have created a blog, a video related to Webiny or use Webiny in any of your projects or contributed to there project then claim your free swags just by emailing them some necessary informations.
 
-- [AppWrite](https://hacktoberfest.appwrite.io/) : "Submit 4 or more pr's and get Limited edition Appwrite Hacktoberfest T-shirt, Sticker pack, Socks"
+- [Appwrite](https://hacktoberfest.appwrite.io/) : "Submit 4 or more pr's and get Limited edition Appwrite Hacktoberfest T-shirt, Sticker pack, Socks"
