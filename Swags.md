@@ -15,3 +15,5 @@
 - [Community Classroom](https://www.commclassroom.org/hashnode) : Community Classroom has started a blogging challenge since past few months. You can get a chance to win exciting prizes such as MacBooks, iPhones, iPads and more every month. You have follow the guidelines for participation. The more blogs you write as per the tracks, the more chances get increased to get the grand prize of that month. This increases your writing skills and also you get to understand new things properly.
 
 - [Webiny](https://www.webiny.com/swag/) : " To show our appreciation to all our contributors and supporters, we are giving away free swag. " - Sven, Co-founder & CEO. If you have created a blog, a video related to Webiny or use Webiny in any of your projects or contributed to there project then claim your free swags just by emailing them some necessary informations.
+
+- [Appwrite](https://hacktoberfest.appwrite.io/) : "Submit 4 or more pr's and get Limited edition Appwrite Hacktoberfest T-shirt, Sticker pack, Socks"
