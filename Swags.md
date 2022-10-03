@@ -32,9 +32,11 @@
 
 ---
 
+- [HackSquad](https://www.hacksquad.dev/) : Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!
+
 - [Hashnode](https://hashnode.com/) : Participants can share their Experience/Knowledge through writing blogs and this site also conduct weekly blog writing contest in which winner gets cool dev swags.
 
-- [HackSquad](https://www.hacksquad.dev/) : Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!
+- [Hasura](https://hasura.io) :Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql) to win custom limited edition T-shirts and Stickers
 
 ## M
 
