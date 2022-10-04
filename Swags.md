@@ -38,6 +38,11 @@
 
 - [Hasura](https://hasura.io) :Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql) to win custom limited edition T-shirts and Stickers
 
+## K
+
+---
+- [Kong](https://konghq.com/) : Submit a PR to solve one or more issues in [Kong](https://github.com/Kong/kong). If your Pull Request (PR) to Kong is accepted, you are eligible to receive the very special Contributor T-shirt
+
 ## M
 
 ---
