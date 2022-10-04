@@ -46,7 +46,7 @@
 
 ---
 
-- [Invertase](https://invertase.io/community/hacktoberfest) : 5 different levelsof prize packages.  Easiest level is 1 PR merged and you will get a t-shirt and stickers pack.   For the top level, you get the SPECIAL Package with Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, and Stickers pack!
+- [Invertase](https://invertase.io/community/hacktoberfest) : 5 different levels of prize packages.  Easiest level is 1 PR merged and you will get a t-shirt and stickers pack.   For the top level, you get the SPECIAL Package with Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, and Stickers pack!
 
 ## K
 
