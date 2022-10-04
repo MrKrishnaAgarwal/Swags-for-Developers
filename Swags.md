@@ -22,6 +22,8 @@
 
 - [Community Classroom](https://www.commclassroom.org/hashnode) : Community Classroom has started a blogging challenge since past few months. You can get a chance to win exciting prizes such as MacBooks, iPhones, iPads and more every month. You have follow the guidelines for participation. The more blogs you write as per the tracks, the more chances get increased to get the grand prize of that month. This increases your writing skills and also you get to understand new things properly.
 
+- [CODECHEF GOODIES](https://goodies.codechef.com/goodies/%e2%82%b9200-amazon-pay-egift-card/) : In Indian culture, nothing depicts sweetness better than a Laddu. Be it a birthday party, a wedding celebration, or an examination result, Laddu is the first thing you will get to lay your hands on,, you can code .. develop your coding practise and also earn goodies like amazon pay gift card by this .. Once you collect enough Laddus, you can then redeem them to get yourself anything from a wide range of CodeChef goodies (Yes, we are going to broaden our inventory, and we are open to your suggestions on what you would like to win)       
+
 ## D
 
 ---
