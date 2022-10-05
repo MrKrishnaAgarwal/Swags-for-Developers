@@ -42,9 +42,16 @@
 
 - [Hasura](https://hasura.io) :Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql) to win custom limited edition T-shirts and Stickers
 
+## I
+
+---
+
+- [Invertase](https://invertase.io/community/hacktoberfest) : 5 different levels of prize packages.  Easiest level is 1 PR merged and you will get a t-shirt and stickers pack.   For the top level, you get the SPECIAL Package with Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, and Stickers pack!
+
 ## K
 
 ---
+
 - [Kong](https://konghq.com/) : Submit a PR to solve one or more issues in [Kong](https://github.com/Kong/kong). If your Pull Request (PR) to Kong is accepted, you are eligible to receive the very special Contributor T-shirt
 
 ## M
