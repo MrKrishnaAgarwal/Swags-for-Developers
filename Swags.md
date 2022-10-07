@@ -54,7 +54,7 @@
 
 ---
 
-- [JS Bin](https://jsbin.com/help/stickers/) : Get stickers from JS Bin for free just by creating an account [here](https://jsbin.com/help/stickers/) and filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeQ_PflKvabBLmdlHPOeBkD30aRs14yNGfvcaErpys_YSKXBA/viewform).
+- [JS Bin](https://jsbin.com/help/stickers/) : Get stickers from JS Bin for free just by creating an account [here](https://jsbin.com/?html,output) and filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeQ_PflKvabBLmdlHPOeBkD30aRs14yNGfvcaErpys_YSKXBA/viewform).
 
 ## K
 
