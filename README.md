@@ -30,9 +30,7 @@ Also if you know and want to add new swags stuff, Raise a pull request and I'll 
 
 For more, check out the [Contributing Guide](/CONTRIBUTING.md).
 
-## Contributors
-
-✨ Thanks goes to these wonderful people ✨
+## Maintainer
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
