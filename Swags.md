@@ -33,6 +33,7 @@
 ## D
 
 ---
+- [DagsHub](https://dagshub.com/) : Contribute to [Papers with everything](https://github.com/DagsHub/papers-with-everything) or [3D models datasets](https://github.com/DagsHub/3D-model-datasets) by submitting 2 PRs to get swag and 10 PRs to get a full swag package which includes reusable bottle, t-shirt, stickers, DagsHub plush toy and more. More Details [here](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/)
 
 - [Devswag](https://devswag.io) : Contains AMAZING list of swags! Easy to Hard! Including T-Shirts, Stickers AND MUCH MORE!
 
