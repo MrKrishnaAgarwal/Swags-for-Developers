@@ -37,6 +37,13 @@
 
 - [Devswag](https://devswag.io) : Contains AMAZING list of swags! Easy to Hard! Including T-Shirts, Stickers AND MUCH MORE!
 
+
+## G
+
+---
+
+- [Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/) : Get a pull request merged into Gatsby and receive a free shirt, socks, or stickers. Everyone who contributes to Gatsby is eligible to receive free swag.
+
 ## H
 
 ---
