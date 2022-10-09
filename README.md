@@ -45,6 +45,13 @@ For more, check out the [Contributing Guide](/CONTRIBUTING.md).
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+# cv
+
+## Thanks to all Contributors <a name = "contributors"></a>
+
+<a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/graphs/contributors"> 
+<img src="https://contrib.rocks/image?repo=MrKrishnaAgarwal/Swags-for-Developers" /> 
+</a>
 
 <p align = "center">
 
