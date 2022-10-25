@@ -46,6 +46,7 @@
 ## C
 
 ---
+- [Codedam](https://codedamn.com/) : In order to participate and win prizes, you have to submit a guided project
 
 - [Camunda](https://camunda.com/) : Submit four (4) quality pull requests (PRs) to any Camunda repo including participating\* Camunda Community Hub repos and get a t-shirt.
 
