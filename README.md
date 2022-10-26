@@ -93,6 +93,8 @@
 
 - [Invertase](https://invertase.io/community/hacktoberfest) : 5 different levels of prize packages.  Easiest level is 1 PR merged and you will get a t-shirt and stickers pack.   For the top level, you get the SPECIAL Package with Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, and Stickers pack!
 
+- [IHP (Integrated Haskell Platform)](https://docs.google.com/forms/d/e/1FAIpQLSf7XHkba-mn3GNIsh5n4ftB7hlHmRx9zluicvSKDKU5Z-jJKg/viewform): Just fill out a form, that is linked on IHP's repository or write an email to hi@digitallyinduced.com.
+
 ## J
 
 ---
@@ -121,6 +123,11 @@
 - [NPM](https://www.npmjs.com/) : Submit a PR to solve one or more issues in [NPM](https://github.com/npm/cli) or fix a bug and get a free NPM socks and stickers.
 
 
+## O
+
+---
+
+- [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59): Everyone who contributes to opsdroid can get free stickers.
 ## Q
 
 ---
