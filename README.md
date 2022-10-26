@@ -20,6 +20,7 @@
 
 <br> <br>
 
+<!-- Swag list starts here -->
 
 </p>
 
@@ -159,6 +160,9 @@
 - [Zulip](https://zulip.com/): Submit a PR to solve one or more issues in [Zulip GitHub repository](https://github.com/zulip/zulip). If your Pull Request (PR) to Zulip is accepted, you are eligible to receive some cool swag from Zulip.
 
 - [Zyte](https://www.zyte.com/blog/hacktoberfest-2022): Contribute with code, translations, blogs, or art to any of 4 open-source projects Zyte maintains which inclues [Scrapy](https://github.com/scrapy), [ScrapingHub](https://github.com/scrapinghub/), [Scrapy Plugins](https://github.com/scrapy-plugins/) and [Zytedata](https://github.com/zytedata). First 20 particiapnts will win Zyte Swag.
+
+<!-- Swag list ends here -->
+
 
 <hr><br><br>
 
