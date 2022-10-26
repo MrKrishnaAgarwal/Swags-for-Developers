@@ -102,7 +102,12 @@
 
 - [JS Bin](https://jsbin.com/help/stickers/) : Get stickers from JS Bin for free just by creating an account [here](https://jsbin.com/?html,output) and filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeQ_PflKvabBLmdlHPOeBkD30aRs14yNGfvcaErpys_YSKXBA/viewform).
 
-- [Jina AI](https://jina.ai/blog/swag/): 1. Complete all three certification of Jina AI Bootcamp Link : [Here](https://learn.jina.ai/) 2. Share your all three certificates in a single post on any social media handle either twitter or linkedin. 3. Make sure you star this repository : [Here](https://github.com/jina-ai/jina)  4.Join jina AI slack community : [Here](https://slack.jina.ai/) 5. Fill swag form : [Here](https://docs.google.com/forms/d/e/1FAIpQLSeOvmN7hLCNczc0YIzO1HZbjhVSwO-VqzRBnEoeoADUWymVcw/viewform)
+- [Jina AI](https://jina.ai/blog/swag/): 
+ 1. Complete all three certification of Jina AI Bootcamp Link : [Here](https://learn.jina.ai/) 
+ 2. Share your all three certificates in a single post on any social media handle either twitter or linkedin. 
+ 3. Make sure you star this repository : [Here](https://github.com/jina-ai/jina)  
+ 4. Join jina AI slack community : [Here](https://slack.jina.ai/) 
+ 5. Fill swag form : [Here](https://docs.google.com/forms/d/e/1FAIpQLSeOvmN7hLCNczc0YIzO1HZbjhVSwO-VqzRBnEoeoADUWymVcw/viewform)
 
 ## K
 
