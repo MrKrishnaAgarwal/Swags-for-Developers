@@ -121,13 +121,14 @@
 
 - [Medusa](https://medusajs.com/) : For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle
 
+- [MindsDB](https://mindsdb.com/community) : You can earn rewards by contributing to MindsDB and earn SWAG credits which you can use to purchase SWAG on our MindsDB SWAG store. Check the detail description from [here](https://mindsdb.com/community)
+
 
 ## N
 
 ---
 
-- [NPM](https://www.npmjs.com/) : Submit a PR to solve one or more issues in [NPM](https://github.com/npm/cli) or fix a bug and get a free NPM socks and stickers.
-
+- [NPM](https://www.npmjs.com/) : Submit a PR to solve one or more issues in [NPM](https://github.com/npm/cli) or fix a bug and get a free NPM socks and stickers. 
 
 ## O
 
@@ -138,7 +139,9 @@
 
 ---
 
-- [QWIKLABS](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
+- [QuestDB](https://questdb.io/community/) : Submit a PR and make meaningful contribution to claim the swag(t-shirt) by filling the swag request form from [here](https://docs.google.com/forms/d/e/1FAIpQLSePTQjsiifOJ7fGB4ClDCysJQpejpGtrIKWBw5nQECu2lp1KQ/viewform) 
+
+- [Qwiklabs](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
 
 ## R
 
