@@ -139,9 +139,9 @@
 
 ---
 
-- [QWIKLABS](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
-
 - [QuestDB](https://questdb.io/community/) : Submit a PR and make meaningful contribution to claim the swag(t-shirt) by filling the swag request form from [here](https://docs.google.com/forms/d/e/1FAIpQLSePTQjsiifOJ7fGB4ClDCysJQpejpGtrIKWBw5nQECu2lp1KQ/viewform) 
+
+- [Qwiklabs](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
 
 ## R
 
