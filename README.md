@@ -76,8 +76,6 @@
 
 - [Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/) : Get a pull request merged into Gatsby and receive a free shirt, socks, or stickers. Everyone who contributes to Gatsby is eligible to receive free swag.
 
-- [The Gita Inniative](https://www.gita-innitiative.org/) : The Gita Initiative is a non-profit organization that aims to make the Bhagavad Gita accessible to everyone. They will send over hardcopies of The Bhagavad Gita and some stickers to contributors with 4 or more PRs being accepted.
-
 ## H
 
 ---
