@@ -36,7 +36,7 @@
 
 - [Amplification](https://amplification.com): Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt. Eligible Issues can be found [here](https://github.com/amplication/amplication/issues)
 
-- [Appwrite](https://hacktoberfest.appwrite.io/): "Submit 4 or more pr's and get Limited edition Appwrite Hacktoberfest T-shirt, Sticker pack, Socks"
+- [Appwrite](https://hacktoberfest.appwrite.io/): "Submit 4 or more pr's and get Limited edition Appwrite Hoodie and stickers."
 
 - [Aviyel](https://aviyel.com/): Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline Swag Box and Badge.
 
