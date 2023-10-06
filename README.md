@@ -56,10 +56,6 @@
 
 - [Camunda](https://camunda.com/) : Submit four (4) quality pull requests (PRs) to any Camunda repo including participating\* Camunda Community Hub repos and get a t-shirt.
 
-- [Community Classroom](https://www.commclassroom.org/hashnode) : Community Classroom has started a blogging challenge since past few months. You can get a chance to win exciting prizes such as MacBooks, iPhones, iPads and more every month. You have follow the guidelines for participation. The more blogs you write as per the tracks, the more chances get increased to get the grand prize of that month. This increases your writing skills and also you get to understand new things properly.
-
-- [CodeChef Goodies](https://goodies.codechef.com/goodies/%e2%82%b9200-amazon-pay-egift-card/) : In Indian culture, nothing depicts sweetness better than a Laddu. Be it a birthday party, a wedding celebration, or an examination result, Laddu is the first thing you will get to lay your hands on,, you can code .. develop your coding practise and also earn goodies like amazon pay gift card by this .. Once you collect enough Laddus, you can then redeem them to get yourself anything from a wide range of CodeChef goodies (Yes, we are going to broaden our inventory, and we are open to your suggestions on what you would like to win)     
-
 -  [ClueLess Community](https://github.com/Clueless-Community) : Hacktoberfest is here, and we are also here with ClueLess Community and it's amazing repos where you can contribute . 🚀 And you know what's more amazing. All the top contributors of ClueLess will get t-shirts and amazing swags by ClueLess apart from hacktoberfest swags. 🤩 All participants will get their participation certificate.
 
 ## D
@@ -89,8 +85,6 @@
 ## I
 
 ---
-
-- [Invertase](https://invertase.io/community/hacktoberfest) : 5 different levels of prize packages.  Easiest level is 1 PR merged and you will get a t-shirt and stickers pack.   For the top level, you get the SPECIAL Package with Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, and Stickers pack!
 
 - [IHP (Integrated Haskell Platform)](https://docs.google.com/forms/d/e/1FAIpQLSf7XHkba-mn3GNIsh5n4ftB7hlHmRx9zluicvSKDKU5Z-jJKg/viewform): Just fill out a form, that is linked on IHP's repository or write an email to hi@digitallyinduced.com.
 
@@ -128,11 +122,6 @@
 
 - [NPM](https://www.npmjs.com/) : Submit a PR to solve one or more issues in [NPM](https://github.com/npm/cli) or fix a bug and get a free NPM socks and stickers. 
 
-## O
-
----
-
-- [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59): Everyone who contributes to opsdroid can get free stickers.
 ## Q
 
 ---
@@ -148,12 +137,6 @@
 - [RedwoodJS](https://redwoodjs.com/stickers) : Simply fill in your postal address and get free stickers!
 
 - [Rust](https://www.rust-lang.org/) : Submit a PR to solve one or more issues in [Rust GitHub repository](https://github.com/rust-lang/rust). If your Pull Request (PR) to Rust is accepted, you are eligible to receive the very special Contributor T-shirt.
-
-## S
-
----
-
-- [SAP](https://developers.sap.com/mission.hacktoberfest.html) : SAP is offering a special Hacktoberfest 2021 T-shirt to all participants who complete the mission. The mission is to contribute to any of the open source projects listed on the SAP Community page. You can also contribute to any other open source project and submit a pull request to the SAP Community page to get your T-shirt.
 
 ## W
 
