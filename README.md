@@ -69,6 +69,7 @@
 
 - [Devswag](https://devswag.io) : Contains AMAZING list of swags! Easy to Hard! Including T-Shirts, Stickers AND MUCH MORE!
 
+- [DocsGPT](https://docsgpt.ai/) : Make meaningful contributions by improving the documentation or creating new guides or by improving the existing UI/UX or designing a new feature. Your contributions could earn you a stylish new T-shirt as a token of our appreciation. For more details and contributing check this [Repo](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md)
 
 ## G
 
@@ -85,6 +86,8 @@
 - [Hashnode](https://hashnode.com/) : Participants can share their Experience/Knowledge through writing blogs and this site also conduct weekly blog writing contest in which winner gets cool dev swags.
 
 - [Hasura](https://hasura.io) :Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql) to win custom limited edition T-shirts and Stickers
+
+- [Hyperswitch](https://hyperswitch.io/hacktoberfest) : To be eligible for swags, you have to first make an account on [Hyperswtich](https://app.hyperswitch.io/login). Then, submit a PR to solve one or more issues in the [Hyperswitch Repo](https://github.com/juspay/hyperswitch) to win T-shirt and other goodies.
 
 ## I
 
