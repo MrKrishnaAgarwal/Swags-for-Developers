@@ -87,7 +87,7 @@
 
 - [Hasura](https://hasura.io) :Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql) to win custom limited edition T-shirts and Stickers
 
-- [Hyperswitch](https://hyperswitch.io/hacktoberfest) : To be eligible for swags, you have to first make an account on [Hyperswtich](https://app.hyperswitch.io/login). Submit a PR to solve one or more issues in the [Hyperswitch Repo](https://github.com/juspay/hyperswitch) to win T-shirt and other goodies.
+- [Hyperswitch](https://hyperswitch.io/hacktoberfest) : To be eligible for swags, you have to first make an account on [Hyperswtich](https://app.hyperswitch.io/login). Then, submit a PR to solve one or more issues in the [Hyperswitch Repo](https://github.com/juspay/hyperswitch) to win T-shirt and other goodies.
 
 ## I
 
