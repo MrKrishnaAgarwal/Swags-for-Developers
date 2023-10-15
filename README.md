@@ -67,6 +67,9 @@
 
 - [DocsGPT](https://docsgpt.ai/) : Make meaningful contributions by improving the documentation or creating new guides or by improving the existing UI/UX or designing a new feature. Your contributions could earn you a stylish new T-shirt as a token of our appreciation. For more details and contributing check this [Repo](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md)
 
+[devRant](https://devrant.com/free-stickers) : Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!.
+
+
 ## G
 
 ---
