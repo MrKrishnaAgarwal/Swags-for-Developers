@@ -133,6 +133,7 @@
 
 - [Qwiklabs](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
 
+- [Quine.sh](https://quine.sh/) : Share your weekly achievements on their Discord channel for a chance to win exciting prizes every Wednesday, such as T-shirts, caps, stickers, and more.
 ## R
 
 ---
