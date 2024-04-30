@@ -1,6 +1,5 @@
 # Swags for Developers ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=200) 
 
-
 <div align="center">
 
 <img src="https://socialify.git.ci/MrKrishnaAgarwal/Swags-for-developers/image?description=1&descriptionEditable=A%20Curated%20List%20of%20amazing%20and%20awesome%20swags%20for%20developers%20eg:%20%20%20T-Shirts%2C%20Stickers%2C%2PGoodies%2C%20and%20more.&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark" width="700"/>
@@ -13,8 +12,8 @@
 
 <p align="center">
 
-<img src = "https://img.shields.io/badge/license-GNU General %20Public License-indigo"/>
-<img src = "https://awesome.re/badge.svg"/> 
+<img src="https://img.shields.io/badge/license-GNU General %20Public License-indigo"/>
+<img src="https://awesome.re/badge.svg"/> 
 <img src="https://img.shields.io/github/contributors/MrKrishnaAgarwal/Swags-for-developers" />
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg"/>
 
@@ -34,12 +33,11 @@
 
 - [Airbyte](https://airbyte.com/connector-contest): Anyone who submits a connector within the event dates will receive $500 and Airbyte swag, Top participants will receive $1000+ and special swags.
 
-- [Amplification](https://amplification.com): Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt. Eligible Issues can be found [here](https://github.com/amplication/amplication/issues)
+- [Amplification](https://amplification.com): Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt. [Eligible Issues](https://github.com/amplication/amplication/issues)
 
 - [Appwrite](https://hacktoberfest.appwrite.io/): "Submit 4 or more pr's and get Limited edition Appwrite Hacktoberfest T-shirt, Sticker pack, Socks"
 
 - [Aviyel](https://aviyel.com/): Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline Swag Box and Badge.
-
 
 ## B
 
@@ -61,7 +59,7 @@
 ## D
 
 ---
-- [DagsHub](https://dagshub.com/) : Contribute to [Papers with everything](https://github.com/DagsHub/papers-with-everything) or [3D models datasets](https://github.com/DagsHub/3D-model-datasets) by submitting 2 PRs to get swag and 10 PRs to get a full swag package which includes reusable bottle, t-shirt, stickers, DagsHub plush toy and more. More Details [here](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/)
+- [DagsHub](https://dagshub.com/) : Contribute to [Papers with everything](https://github.com/DagsHub/papers-with-everything) or [3D models datasets](https://github.com/DagsHub/3D-model-datasets) by submitting 2 PRs to get swag and 10 PRs to get a full swag package which includes reusable bottle, t-shirt, stickers, DagsHub plush toy and more. [More Details](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/)
 
 - [Devswag](https://devswag.io) : Contains AMAZING list of swags! Easy to Hard! Including T-Shirts, Stickers AND MUCH MORE!
 
@@ -73,11 +71,15 @@
 
 - [Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/) : Get a pull request merged into Gatsby and receive a free shirt, socks, or stickers. Everyone who contributes to Gatsby is eligible to receive free swag.
 
+- [GeeksForGeeks](https://www.geeksforgeeks.org/problem-of-the-day) : Engage in daily coding challenges, accumulate coins, and exchange them for fantastic swag items like t-shirts, hoodies, and bags. Dive into the world of coding with the Problem of the Day and reap the rewards!
+
 ## H
 
 ---
 
 - [HackSquad](https://www.hacksquad.dev/) : Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!
+
+- [Hacktoberfest](https://hacktoberfest.com/) : This annual event in October encourages contributions to open-source projects. Many participating projects offer swag for contributions.
 
 - [Hashnode](https://hashnode.com/) : Participants can share their Experience/Knowledge through writing blogs and this site also conduct weekly blog writing contest in which winner gets cool dev swags.
 
@@ -98,8 +100,8 @@
 - [JS Bin](https://jsbin.com/help/stickers/) : Get stickers from JS Bin for free just by creating an account [here](https://jsbin.com/?html,output) and filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeQ_PflKvabBLmdlHPOeBkD30aRs14yNGfvcaErpys_YSKXBA/viewform).
 
 - [Jina AI](https://jina.ai/blog/swag/): 
- 1. Complete all three certification of Jina AI Bootcamp Link : [Here](https://learn.jina.ai/) 
- 2. Share your all three certificates in a single post on any social media handle either twitter or linkedin. 
+ 1. Complete all three certification of Jina AI Bootcamp [Link](https://learn.jina.ai/) 
+ 2. Share your all three certificates in a single post on any social media handle either [twitter](https://twitter.com/) or [linkedin](https://www.linkedin.com/) 
  3. Make sure you star this repository : [Here](https://github.com/jina-ai/jina)  
  4. Join jina AI slack community : [Here](https://slack.jina.ai/) 
  5. Fill swag form : [Here](https://docs.google.com/forms/d/e/1FAIpQLSeOvmN7hLCNczc0YIzO1HZbjhVSwO-VqzRBnEoeoADUWymVcw/viewform)
@@ -113,6 +115,7 @@
 ## M
 
 ---
+- [Microsoft](https://www.microsoft.com/en-us/events) : Microsoft offers free stickers and t-shirts to developers. To get the swag, you need to participate in Microsoft events (https://events.microsoft.com/) and complete a few challenges. 
 
 - [Medusa](https://medusajs.com/) : For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle
 
@@ -129,7 +132,7 @@
 
 ---
 
-- [QuestDB](https://questdb.io/community/) : Submit a PR and make meaningful contribution to claim the swag(t-shirt) by filling the swag request form from [here](https://docs.google.com/forms/d/e/1FAIpQLSePTQjsiifOJ7fGB4ClDCysJQpejpGtrIKWBw5nQECu2lp1KQ/viewform) 
+- [QuestDB](https://questdb.io/community/) : Submit a PR and make meaningful contribution to claim the swag(t-shirt) by filling the [swag request form](https://docs.google.com/forms/d/e/1FAIpQLSePTQjsiifOJ7fGB4ClDCysJQpejpGtrIKWBw5nQECu2lp1KQ/viewform) 
 
 - [Qwiklabs](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
 
