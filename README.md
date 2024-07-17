@@ -69,7 +69,12 @@
 
 ---
 
-- [Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/) : Get a pull request merged into Gatsby and receive a free shirt, socks, or stickers. Everyone who contributes to Gatsby is eligible to receive free swag.
+- [Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/) : Get a pull request merged into Gatsby and receive a free shirt, socks, or stickers. Everyone who contributes to Gatsby is eligible to receive free swag. There are 2 tiers.
+
+
+-Tier 1 swag includes most items $10 and under
+
+-Tier 2 swag includes most items $26 and under
 
 - [GeeksForGeeks](https://www.geeksforgeeks.org/problem-of-the-day) : Engage in daily coding challenges, accumulate coins, and exchange them for fantastic swag items like t-shirts, hoodies, and bags. Dive into the world of coding with the Problem of the Day and reap the rewards!
 
