@@ -1,4 +1,4 @@
-# Swags for Developers ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=200) 
+# Swags for Developers ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=200)
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/license-GNU General %20Public License-indigo"/>
-<img src="https://awesome.re/badge.svg"/> 
+<img src="https://awesome.re/badge.svg"/>
 <img src="https://img.shields.io/github/contributors/MrKrishnaAgarwal/Swags-for-developers" />
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg"/>
 
@@ -31,7 +31,9 @@
 
 ---
 
-- [Airbyte](https://airbyte.com/connector-contest): Anyone who submits a connector within the event dates will receive $500 and Airbyte swag, Top participants will receive $1000+ and special swags.
+- [Airbyte](https://airbyte.com/community/connector-hackathon): Airbyte 1.0 Hacktoberfest:  Connector Builder Challenge!. For each connector merge you will get $50. Top 3 contributors will get $4,000, $2,000, and $1,000 respectively.
+
+- [Airbyte](https://airbyte.com/community/community-program): Earn points by contributing to Airbyte and redeem them for swags.
 
 - [Amplification](https://amplification.com): Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt. [Eligible Issues](https://github.com/amplication/amplication/issues)
 
@@ -104,11 +106,11 @@
 
 - [JS Bin](https://jsbin.com/help/stickers/) : Get stickers from JS Bin for free just by creating an account [here](https://jsbin.com/?html,output) and filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeQ_PflKvabBLmdlHPOeBkD30aRs14yNGfvcaErpys_YSKXBA/viewform).
 
-- [Jina AI](https://jina.ai/blog/swag/): 
- 1. Complete all three certification of Jina AI Bootcamp [Link](https://learn.jina.ai/) 
- 2. Share your all three certificates in a single post on any social media handle either [twitter](https://twitter.com/) or [linkedin](https://www.linkedin.com/) 
- 3. Make sure you star this repository : [Here](https://github.com/jina-ai/jina)  
- 4. Join jina AI slack community : [Here](https://slack.jina.ai/) 
+- [Jina AI](https://jina.ai/blog/swag/):
+ 1. Complete all three certification of Jina AI Bootcamp [Link](https://learn.jina.ai/)
+ 2. Share your all three certificates in a single post on any social media handle either [twitter](https://twitter.com/) or [linkedin](https://www.linkedin.com/)
+ 3. Make sure you star this repository : [Here](https://github.com/jina-ai/jina)
+ 4. Join jina AI slack community : [Here](https://slack.jina.ai/)
  5. Fill swag form : [Here](https://docs.google.com/forms/d/e/1FAIpQLSeOvmN7hLCNczc0YIzO1HZbjhVSwO-VqzRBnEoeoADUWymVcw/viewform)
 
 ## K
@@ -120,7 +122,7 @@
 ## M
 
 ---
-- [Microsoft](https://www.microsoft.com/en-us/events) : Microsoft offers free stickers and t-shirts to developers. To get the swag, you need to participate in Microsoft events (https://events.microsoft.com/) and complete a few challenges. 
+- [Microsoft](https://www.microsoft.com/en-us/events) : Microsoft offers free stickers and t-shirts to developers. To get the swag, you need to participate in Microsoft events (https://events.microsoft.com/) and complete a few challenges.
 
 - [Medusa](https://medusajs.com/) : For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle
 
@@ -131,13 +133,13 @@
 
 ---
 
-- [NPM](https://www.npmjs.com/) : Submit a PR to solve one or more issues in [NPM](https://github.com/npm/cli) or fix a bug and get a free NPM socks and stickers. 
+- [NPM](https://www.npmjs.com/) : Submit a PR to solve one or more issues in [NPM](https://github.com/npm/cli) or fix a bug and get a free NPM socks and stickers.
 
 ## Q
 
 ---
 
-- [QuestDB](https://questdb.io/community/) : Submit a PR and make meaningful contribution to claim the swag(t-shirt) by filling the [swag request form](https://docs.google.com/forms/d/e/1FAIpQLSePTQjsiifOJ7fGB4ClDCysJQpejpGtrIKWBw5nQECu2lp1KQ/viewform) 
+- [QuestDB](https://questdb.io/community/) : Submit a PR and make meaningful contribution to claim the swag(t-shirt) by filling the [swag request form](https://docs.google.com/forms/d/e/1FAIpQLSePTQjsiifOJ7fGB4ClDCysJQpejpGtrIKWBw5nQECu2lp1KQ/viewform)
 
 - [Qwiklabs](https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade) : Play to win in The Arcade, the latest way to learn new skills and earn prizes with Google Cloud Skills Boost. Every week, play the latest game and watch your badge collection grow. You'll get hands-on experience with tech like Looker, BigQuery, Kubernetes, Vertex AI, and more. And the best part? Each badge gets you a point (or more!) for the prize counter, opening in December. The more you learn, the more you earn!
 
@@ -194,8 +196,8 @@ For more, check out the [Contributing Guide](/CONTRIBUTING.md).
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ## Thanks to all Contributors 😊<a name = "contributors"></a>
 
-<a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/graphs/contributors"> 
-<img src="https://contrib.rocks/image?repo=MrKrishnaAgarwal/Swags-for-Developers" /> 
+<a href="https://github.com/MrKrishnaAgarwal/Swags-for-Developers/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=MrKrishnaAgarwal/Swags-for-Developers" />
 </a>
 
 <p align = "center">
